@@ -30,11 +30,11 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/G-Gangalapudi/calculator-website.git
+    git clone https://github.com/G-Gangalapudi/Calculator-Website.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd calculator-website
+    cd Calculator-Website
     ```
 3. Open `index.html` in your preferred web browser.
 
@@ -49,7 +49,7 @@ To run the project locally, follow these steps:
 - **+**: Addition operation.
 - **0-9**: Number inputs.
 - **.**: Decimal point input.
-- **←**: Backspace, removes the last input.
+- **←**: Backspace removes the last input.
 - **=**: Calculates the result of the current expression.
 
 ## Project Structure
